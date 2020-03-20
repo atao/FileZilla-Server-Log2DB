@@ -1,2 +1,12 @@
 # FileZilla-Server-Log2DB
-Python script that parse and store in database FileZilla Server Log files.
+The purpose of this script is to parse the FileZilla Server logs and insert them in a Sqlite database.
+
+### Installation
+```
+git clone https://github.com/atao/FileZilla-Server-Log2DB.git
+cd FileZilla-Server-Log2DB
+pip install -r requirements.txt
+```
+### Configuration
+Edit the script to modify variables to specify the location of FileZilla Server logs.
+By default the script scans the last two log files.
