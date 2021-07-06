@@ -1,3 +1,4 @@
+[![Lint Python](https://github.com/atao/FileZilla-Server-Log2DB/actions/workflows/main.yml/badge.svg)](https://github.com/atao/FileZilla-Server-Log2DB/actions/workflows/main.yml)
 # FileZilla-Server-Log2DB
 The purpose of this script is to parse the FileZilla Server logs and insert them in a Sqlite database.
 
