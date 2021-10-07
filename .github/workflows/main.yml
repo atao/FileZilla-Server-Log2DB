@@ -6,6 +6,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: cclauss/Find-Python-syntax-errors-action@master
-      - uses: actions/checkout@master
-      - name: Self test
-        id: selftest
